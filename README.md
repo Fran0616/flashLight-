@@ -83,4 +83,6 @@ class ViewController: UIViewController {
     }
 }
 
+**Final Product**
 
+![](https://github.com/Fran0616/flashLight-/blob/master/on.png) ![](https://github.com/Fran0616/flashLight-/blob/master/off.png)
